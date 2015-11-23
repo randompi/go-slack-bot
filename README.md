@@ -1,5 +1,5 @@
 # go-slack-bot
-A super simple go slack bot
+A super simple go slack bot, fun!
 
 Buiding the bot outside of docker requires [gb](https://getgb.io):
 
